@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pizza\nSushi\nIce Cream
+=======
+The Devil Wears Prada\nLegally Blonde\nHow To Get Away With Murder
+>>>>>>> movies
